@@ -1,3 +1,6 @@
+![Banner](https://oaidalleapiprodscus.blob.core.windows.net/private/org-H3pY5bSkfHgCWc0m8hFe1XGP/user-b5k1yMEGP9rcW5xvVsKpJkyl/img-9Zk3jWaaj8ENm1Cz3iADKjo9.png?st=2024-06-04T09%3A55%3A00Z&se=2024-06-04T11%3A55%3A00Z&sp=r&sv=2021-08-06&sr=b&sig=iTxHCBQWEEcdS6TA5UZYXb2IQ9xkuLSZFB4fGiMquRQ%3D)
+
+
 # 👋 Hi, I'm Iftekhar Ahmed
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1DBF73&vCenter=true&width=435&lines=Hi%2C+I'm+Iftekhar+Ahmed!;Full-Stack+Web+Developer;)](https://github.com/iftekhar-coder)
