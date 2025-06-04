@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Iftekhar Ahmed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1DBF73&vCenter=true&width=435&lines=Hi%2C+I'm+Iftekhar+Ahmed!;Full-Stack+Web+Developer;I+build+clean+%26+responsive+UIs)](https://github.com/iftekhar-coder)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1DBF73&vCenter=true&width=435&lines=Hi%2C+I'm+Iftekhar+Ahmed!;Full-Stack+Web+Developer;)](https://github.com/iftekhar-coder)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=iftekhar-coder&color=blue)
 
